@@ -1,0 +1,48 @@
+===============================
+GUIA MENTAL DE CRIAÇÃO DE PROJETOS
+===============================
+
+1. PROPÓSITO DO PROJETO
+- O que quero criar?
+Um sistema bancário
+- Quem vai usar?
+Eu, clientes
+- Pra que serve?
+Serve para depositar dinheiro, sacar e ver o extrato da conta
+
+2. FUNCIONALIDADES
+- O que ele deve ser capaz de fazer?
+[ ] Sacar dinheiro
+[ ] Depositar dinheiro
+[ ] Ver o extrato
+[ ] Criar conta
+
+3. DADOS NECESSÁRIOS
+- Quais informações preciso guardar?
+Saldo, o Saque, O usuário, o limite de saques por dias e o limite do saque
+- Quais variáveis ou estruturas de dados?
+
+4. ORGANIZAÇÃO DO CÓDIGO
+- Vai usar funções? Classes?
+Classes, funções
+- Separar em arquivos? Quais?
+
+
+5. FLUXO DO PROGRAMA
+- O que acontece primeiro, depois, etc.
+Aparece o menu, o usuário escolhe o que quer realizar e segue
+- Como o usuário interage com o sistema?
+Através das opções para cada operação, digitando a mesma a qual ele deseja realizar
+
+6. TESTES
+- Como saberei se está funcionando?
+Testando erros e observando se a lógica está correta
+- O que eu espero como resultado?
+Um sistema funcional, que seja prático, mas simples
+
+7. PERSISTÊNCIA DE DADOS
+- Preciso salvar em JSON, .txt ou banco?
+Não necessariamente
+- Posso manter tudo em memória?
+Sim
+===============================
