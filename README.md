@@ -64,3 +64,21 @@ O projeto está organizado da seguinte maneira para garantir a separação de re
   * `conta/operacoes.py`: Contém a lógica de negócio para as operações de `depositar()`, `sacar()` e `ver_extrato()`.
 
 -----
+
+## 💡 Próximas melhorias
+ Salvar dados em JSON
+
+ Suporte a múltiplas contas
+
+ Refatorar usando orientação a objetos (POO)
+
+ Interface gráfica com Tkinter ou Web com Flask
+
+## 🧠 Aprendizados
+Este projeto foi desenvolvido como parte dos meus estudos no Bootcamp Santander 2025 - Back-End com Python (DIO), com o objetivo de praticar:
+
+Lógica de programação
+
+Modularização com funções e arquivos
+
+Tratamento de exceções
